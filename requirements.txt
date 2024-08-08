@@ -1,3 +1,0 @@
-alpaca-trade-api==2.3.0
-pandas==1.5.3
-ta==0.10.1
